@@ -1,2 +1,2 @@
 # madLibs
-A finished madlibs project.
+A finished madlibs project/ tutorial project
